@@ -1,6 +1,5 @@
 import scala.io.StdIn.readLine
 import scala.io.StdIn.readInt
-import scala.collection.mutable.Map
 
 object inventory_management {
     def main(args: Array[String]): Unit ={

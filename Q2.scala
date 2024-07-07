@@ -18,5 +18,5 @@ object patternMatching {
         case _ => isOdd(x-1)
     }
 
-    def isOdd(y:Int):Boolean = !(isEven(y))
+    def isOdd(x:Int):Boolean = !(isEven(x))
 }
